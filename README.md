@@ -26,9 +26,10 @@
 
  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <h3 align="left">Sobre mi </h3>
-Desde muy chico fui un apasionado de las PC´s, pasé por diversos rubros y amplios grupos de trabajo como mi ultimo puesto en la multinacional empresa líder en Seguridad Privada Prosegur en el sector de administración.🕵️‍♂️
+Desde muy chico fui un apasionado de la Informatica, la primera pc que interactue era con S.O. MS-DOS👨‍💻. Desde alli mi pasion fue a primera vista 💘
+Pasé por diversos rubros y amplios grupos de trabajo como mi ultimo puesto en la multinacional empresa líder en Seguridad Privada Prosegur en el sector de administración.🕵️‍♂️
 Cada dia pongo el maximo para estar preparado construyendo este bello presente.🚀
-</br></br></br></br>
+</br></br></br>
 
 
 <h3 align="left">Languajes y Herramientas:</h3>
@@ -37,3 +38,6 @@ Cada dia pongo el maximo para estar preparado construyendo este bello presente.�
 💹 Algunas estadísticas sobre Raghav
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=raghav-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=151515&hide=html,css )](https://github.com/anuraghazra/github-readme-stats)
+ 
