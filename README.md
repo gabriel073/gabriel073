@@ -26,8 +26,11 @@
 
  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <h3 align="left">Sobre mi </h3>
-Desde muy chico fui un apasionado de la Informatica, la primera pc que interactue era con S.O. MS-DOS👨‍💻. Desde alli mi pasion fue a primera vista 💘
-Pasé por diversos rubros y amplios grupos de trabajo como mi ultimo puesto en la multinacional empresa líder en Seguridad Privada Prosegur en el sector de administración.🕵️‍♂️
+Desde muy chico fui un apasionado de la Informatica, la primera pc que interactue era con S.O. MS-DOS👨‍💻.
+👨‍💻Contando un poco de mis trabajos en Desarrollo:
+👉 Mi experiencia mas fuerte se representa en los trabajos durante el Bootcamp Soy Henry, donde desarrolle una app de forma individual llamada "FOOD", que soluciona el problema de obtencion de distintos tipos de recetas dependiendo dietas, ingredientes, etc., tambien resuelve la creacion de una receta en particular y poder guardarla en una BBDD para su posterior consulta. Utilice tecnologias como Javascript, React, Redux, PostgreSQL, express, nodeJs, css-module. 
+👉 Otro proyecto fue a nivel grupal, un ecommerce de venta de libros fisicos el cual contiene un Login con "Firebase", resuelve el pago de los productos utilizando la api de "Mercado pago", en la app se puede navegar por los diferentes tipos de libros varios filtros conbinados, resuelve tambien el mode de enviar notificaciones en diversos momentos que se interactua por ejemplo cuando se realiza una compra, mediante la api "nodemailer", y tambien se trabajo con las tecnologias como Javascript, React, Redux, PostgreSQL, express, css-module, chakraUI, nodeJs. La web es totalmente responsiva y adaptable a smartphones.
+La experiencia de trabajar en grupo con metodologias Agiles como "Scrum", y llevar el flujo de trabajo en repositorios mediante Git en Git-hub, me dio un background extra el cual me agrado mucho.
 Cada dia pongo el maximo para estar preparado construyendo este bello presente.🚀
 </br></br></br>
 
