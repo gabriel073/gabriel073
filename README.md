@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Gabiel Marzioli</h1>
+<h1 align="center">Hola, soy Gabriel Marzioli</h1>
 <h3 align="center">Un apasionado por la programación, desarrollador web fullStack de Argentina, Buenos Aires</h3>
 
 <p align="center"> 
