@@ -12,7 +12,7 @@
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 <h3 align="left">Conecta conmigo mediante...</h3>
-<p  flex >
+<p  flex justify=center row>
 <a href="https://codepen.io/@gabriel-thebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@gabriel-thebest" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-marzioli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-marzioli/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:arcangeldark id:189402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:arcangeldark id:189402" height="30" width="40" /></a>
