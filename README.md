@@ -92,10 +92,8 @@ E-commerce platform for physical books with full purchase flow, authentication, 
 
 <div align="center">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel073&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel073&layout=compact&hide_border=true&theme=default)
-
+![](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/github/stars/gabriel073?style=flat-square&label=GitHub%20Stars)
 </div>
 
 ---
