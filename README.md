@@ -1,42 +1,112 @@
-<h1 align="center">Hola, soy Gabriel Marzioli</h1>
-<h3 align="center">Un apasionado por la programación, desarrollador web fullStack de Argentina, Buenos Aires</h3>
+<div align="center">
 
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/gabriel073/count.svg" />
-</p>
+# Hi, I'm Gabriel Marzioli 👋
+### Fullstack Web Developer · Buenos Aires, Argentina 🇦🇷
 
-- 📫 Contactame **gabrielmarzioli@gmail.com**
+*Passionate about building complete web experiences — from pixel-perfect UIs to robust, scalable backends.*
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marzioli/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gm-gabriel073.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmarzioli@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/gabrielmarzioli)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@gabrielmarzioli)
 
-<h3 align="left">Conecta conmigo mediante...</h3>
-<p  flex justify='center' row>
-<a href="https://codepen.io/@gabriel-thebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@gabriel-thebest" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-marzioli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-marzioli/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:arcangeldark id:189402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:arcangeldark id:189402" height="30" width="40" /></a>
-<a href="https://codesandbox.com/gabriel073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gabriel073" height="30" width="40" /></a>
-<a href="https://instagram.com/gaby_developer_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaby_developer_js" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gaby_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaby_developer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gabrielmarzioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gabrielmarzioli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gabrielmarzioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gabrielmarzioli" height="30" width="40" /></a>
-</p>
-</br>
+</div>
 
- <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
-<h3 align="left">Sobre mi </h3>
-Desde muy chico fui un apasionado de la Informatica, la primera pc que interactue era con S.O. MS-DOS.
-👨‍💻Contando un poco de mis trabajos en Desarrollo:
-👉 Mi experiencia mas fuerte se representa en los trabajos durante el Bootcamp Soy Henry, donde desarrolle una app de forma individual llamada "FOOD", que soluciona el problema de obtencion de distintos tipos de recetas dependiendo dietas, ingredientes, etc., tambien resuelve la creacion de una receta en particular y poder guardarla en una BBDD para su posterior consulta. Utilice tecnologias como Javascript, React, Redux, PostgreSQL, express, nodeJs, css-module. 
-👉 Otro proyecto fue a nivel grupal, un ecommerce de venta de libros fisicos el cual contiene un Login con "Firebase", resuelve el pago de los productos utilizando la api de "Mercado pago", en la app se puede navegar por los diferentes tipos de libros varios filtros conbinados, resuelve tambien el mode de enviar notificaciones en diversos momentos que se interactua por ejemplo cuando se realiza una compra, mediante la api "nodemailer", y tambien se trabajo con las tecnologias como Javascript, React, Redux, PostgreSQL, express, css-module, chakraUI, nodeJs. La web es totalmente responsiva y adaptable a smartphones.
-La experiencia de trabajar en grupo con metodologias Agiles como "Scrum", y llevar el flujo de trabajo en repositorios mediante Git en Git-hub, me dio un background extra el cual me agrado mucho.
-Cada dia pongo el maximo para estar preparado construyendo este bello presente.🚀
-</br></br></br>
+---
 
+## 🙋 About me
 
-<h3 align="left">Languajes y Herramientas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-</br>
+Fullstack developer with hands-on experience building real-world web applications — from interactive SPAs to RESTful APIs and relational databases. I went through the **Soy Henry** bootcamp where I built production-grade apps individually and in agile teams using Git flow and Scrum.
+
+I love writing clean, maintainable code and I'm always looking to sharpen my skills with modern tools and best practices.
+
+- 🌍 Based in **Buenos Aires, Argentina** — open to remote opportunities
+- 🚀 Currently expanding my skills in **Next.js**, **TypeScript** and **testing**
+- 🤝 I enjoy collaborative environments and agile team dynamics
+- 💬 Ask me about **React**, **Node.js**, **PostgreSQL** or anything fullstack
+
+---
+
+## 🛠️ Tech stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+### 🍽️ Food Recipe App — *Individual project*
+A full-featured SPA where users can browse thousands of recipes, filter by diet or ingredient, and create & save their own recipes to a custom database.
+
+**Stack:** React · Redux · Node.js · Express · PostgreSQL · Sequelize · CSS Modules
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabriel073/PI_FOOD)
+[![Live demo](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://client-bice-tau.vercel.app)
+[![Video demo](https://img.shields.io/badge/Video_demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=8bP8FS9GXc0)
+
+---
+
+### 📚 Henry Library — *Team project (6 devs · Scrum)*
+E-commerce platform for physical books with full purchase flow, authentication, email notifications and payment processing.
+
+**Highlights:** Firebase auth · Mercado Pago integration · Nodemailer notifications · Fully responsive
+
+**Stack:** React · Redux · Node.js · Express · PostgreSQL · Chakra UI · Firebase
+
+[![Frontend](https://img.shields.io/badge/Frontend_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabriel073/FE-HenryLibrary)
+[![Backend](https://img.shields.io/badge/Backend_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabriel073/BE-HenryLibrary)
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel073&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=374151&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel073&layout=compact&hide_border=true&title_color=2563eb&text_color=374151&bg_color=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always building, always learning. Let's connect!*
+
+📬 **gabrielmarzioli@gmail.com**
+
+</div>
+
 
  
