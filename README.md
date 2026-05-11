@@ -92,9 +92,9 @@ E-commerce platform for physical books with full purchase flow, authentication, 
 
 <div align="center">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel073&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=374151&bg_color=ffffff)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel073&show_icons=true&hide_border=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel073&layout=compact&hide_border=true&title_color=2563eb&text_color=374151&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel073&layout=compact&hide_border=true&theme=default)
 
 </div>
 
