@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/gabriel073/count.svg" />
 </p>
 
-- 📫 Contactame **gabrielmarzioli@hotmail.com**
+- 📫 Contactame **gabrielmarzioli@gmail.com**
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
